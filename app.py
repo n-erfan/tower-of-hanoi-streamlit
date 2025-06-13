@@ -8,8 +8,8 @@ PASTEL_COLORS = [
     "#E0BAFF", "#BAFFD9", "#FFD6BA", "#D6BAFF", "#BAFFF6"
 ]
 ROD_COLOR = "#222222"
-DISK_HEIGHT = 28
-ROD_WIDTH = 12
+DISK_HEIGHT = 30
+ROD_WIDTH = 10
 
 # --- Session State Initialization ---
 def init_state():
